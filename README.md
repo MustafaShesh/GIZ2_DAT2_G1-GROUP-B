@@ -24,10 +24,6 @@ UK Train Rides.
 • <br />
 •
 
-## Final Conclusion
-
-![image]()# UK_Train_Rides_Analysis
-
 ## Problem Statment
 
 ## Task List
@@ -50,4 +46,4 @@ UK Train Rides.
 
 ## Final Conclusion
 
-![image]()
+![image](https://github.com/MustafaShesh/GIZ2_DAT2_G1-GROUP-B/blob/main/UK%20Train%20Rides/Materials/Screenshot.png)
