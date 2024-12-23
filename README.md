@@ -26,4 +26,4 @@ UK Train Rides.
 
 ## Final Conclusion
 
-<!-- ![image](https://github.com/MustafaShesh/GIZ2_DAT2_G1-GROUP-B/blob/main/UK%20Train%20Rides/Materials/Screenshot.png) -->
+![image](https://github.com/MustafaShesh/GIZ2_DAT2_G1-GROUP-B/blob/main/UK%20Train%20Rides/Materials/Screenshot.png)
